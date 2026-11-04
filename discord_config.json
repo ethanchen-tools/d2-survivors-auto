@@ -1,0 +1,21 @@
+{
+  "_說明": "webhook_url: Discord 頻道 > 編輯頻道 > 整合 > Webhook 複製網址; mention_user_id: 你的使用者ID (開發者模式 > 右鍵頭像 > 複製使用者ID), 卡死時會 TAG 你",
+  "enabled": true,
+  "webhook_url": "你的網址",
+  "mention_user_id": "你的ID",
+  "mention_role_id": "",
+  "username": "D2Auto",
+  "stuck_seconds": 60,
+  "round_timeout_minutes": 8,
+  "battle_max_minutes": 20,
+  "battle_motion_ratio": 0.05,
+  "repeat_minutes": 10,
+  "notify_stuck": true,
+  "notify_recovered": true,
+  "notify_clear": true
+}
+
+
+齒輪設定 開啟 開發人員 關閉
+右邊 線上人員 找自己 右鍵點頭
+round_timeout_minutes  幾分鐘 沒有通關+1的時候TAG通知去排除

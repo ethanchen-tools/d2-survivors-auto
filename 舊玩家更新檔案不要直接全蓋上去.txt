@@ -1,0 +1,6 @@
+別把你弄好的圖 images
+弄好的各種設定config 
+直接用這邊白板的蓋掉
+
+通常都是D2Auto.exe更新
+或者增加什麼新設定config
